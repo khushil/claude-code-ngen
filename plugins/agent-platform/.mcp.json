@@ -1,0 +1,7 @@
+{
+  "platform": {
+    "command": "python3",
+    "args": ["${CLAUDE_PLUGIN_ROOT}/servers/platform_server.py"],
+    "env": {}
+  }
+}

@@ -9,6 +9,13 @@
   },
   "plugins": [
     {
+      "name": "agent-platform",
+      "description": "BEAM-powered multi-agent orchestration with dependency graphs, retry, and supervision",
+      "version": "0.1.0",
+      "source": "./plugins/agent-platform",
+      "category": "development"
+    },
+    {
       "name": "agent-sdk-dev",
       "description": "Development kit for working with the Claude Agent SDK",
       "source": "./plugins/agent-sdk-dev",

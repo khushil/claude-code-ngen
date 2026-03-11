@@ -1,0 +1,5 @@
+{
+  "name": "agent-platform",
+  "description": "BEAM-powered multi-agent orchestration with dependency graphs, retry, and supervision",
+  "version": "0.1.0"
+}
